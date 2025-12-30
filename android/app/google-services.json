@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "650063797372",
+    "project_id": "naffco-tools-d722b",
+    "storage_bucket": "naffco-tools-d722b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650063797372:android:98bd60a08fa6d70037fdf9",
+        "android_client_info": {
+          "package_name": "com.example.naffco_tools"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2Rpv0EFE1XLt5ULgIsIsAi-Yvm16t_cM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
